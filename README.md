@@ -34,6 +34,9 @@ npm run watch
 npm run hot
 ```
 
+# Start Laravel Server
+php artisan serve
+```
 #### Production
 
 ```bash
